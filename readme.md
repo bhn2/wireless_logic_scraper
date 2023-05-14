@@ -1,4 +1,5 @@
-# Product Parser
+# wireless_logic_scraper
+
 
 This CLI application can be used to scrape products available at [wltest.dns-systems](https://wltest.dns-systems.net/). 
 

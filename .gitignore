@@ -2,7 +2,7 @@
 build/
 .vscode/
 wireless_logic_scraper.sln
-
+wireless_logic_scraper.esproj
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudio,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudio,windows
